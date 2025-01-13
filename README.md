@@ -1,2 +1,4 @@
-# RAMIM-IPTV
-TV Channels &amp; Movies Available Now. Happy Watching :)
+Walcome Walcome Walcome
+Hi
+My name is Ramim Talukder
+I am frome Bangladesh
