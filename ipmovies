@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%281995%29%20%26%20Before/Adventures%20of%20Tarzan%20%281985%29%201080p/a_AL_.jpg", Adventures of Tarzan (1985) [1080p]
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%281995%29%20%26%20Before/Adventures%20of%20Tarzan%20%281985%29%201080p/Adventures%20of%20Tarzan%20%281985%29%20Hindi%201080p%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Aakhir%20Palaayan%20Kab%20Tak..%20%282024%29%20720p%20HDTS/a_AL_.jpg" group-title="Hindi Movies (2024)",Aakhir Palaayan Kab Tak
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Aakhir%20Palaayan%20Kab%20Tak..%20%282024%29%20720p%20HDTS/Aakhir%20Palaayan%20Kab%20Tak%20%282024%29%20Hindi%20720p%20HDTS%20x264%20AAC%20-%20CineVood.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20720p%20HDTC/a_AL_.jpg" group-title="Hindi Movies (2024)",Aayushmati Geeta Matric Pass
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20720p%20HDTC/Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20Hindi%20720p%20HDTC%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Accident%20or%20Conspiracy-Godhra%20%282024%29%201080p%20HDRip/a_AL_.jpg" group-title="Hindi Movies (2024)",Accident or Conspiracy Godhra
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Accident%20or%20Conspiracy-Godhra%20%282024%29%201080p%20HDRip/Accident%20or%20Conspiracy%20Godhra%20%282024%29%20Hindi%201080p%20HDRip%20x264%20AAC%20-%20CineVood.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Adbhut%20%282024%29%20720p%20HDTV/a_AL_.jpg" group-title="Hindi Movies (2024)",Adbhut
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Adbhut%20%282024%29%20720p%20HDTV/Adbhut%20%282024%29%20Hindi%20720p%20HDTVRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Ae%20Watan%20Mere%20Watan%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies (2024)",Ae Watan Mere Watan
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Ae%20Watan%20Mere%20Watan%20%282024%29%201080p/Ae%20Watan%20Mere%20Watan%20%282024%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
